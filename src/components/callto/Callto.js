@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./Callto.scss";
 import Google from "../../images/Google-Play.png";
 import App from "../../images/App-Store.png";
-import Phone from "../../images/Iphone.png";
+// import Phone from "../../images/Iphone.png";
 
 const CallTo = () => {
   const [email, setEmail] = useState(true);
